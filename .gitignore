@@ -1,3 +1,6 @@
+# Dataset (baixar via Kaggle — ver README)
+Data/manufacturing_dataset.csv
+
 # Ambiente virtual
 venv/
 .env
