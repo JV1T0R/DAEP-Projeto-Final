@@ -1,0 +1,29 @@
+# Ambiente virtual
+venv/
+.env
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Figuras geradas (artefatos reproductíveis via validate_analysis.py)
+reports/
+
+# IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
