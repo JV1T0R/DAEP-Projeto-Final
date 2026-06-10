@@ -9,8 +9,6 @@ Projeto de analise exploratoria dos custos de producao de uma fabrica industrial
 **Registros:** 3.000 entradas de producao diaria  
 **Periodo:** Janeiro 2020 a Marco 2028
 
-> O arquivo CSV não está incluído no repositório. Baixe-o pelo link acima e salve em `Data/manufacturing_dataset.csv` antes de executar o notebook.
-
 ### Colunas principais utilizadas na analise de custos
 
 | Coluna | Descricao |

@@ -1,6 +1,3 @@
-# Dataset
-Data/manufacturing_dataset.csv
-
 # Ambiente virtual
 venv/
 .env
